@@ -1,0 +1,23 @@
+{
+  "name": "product-dev-bot",
+  "version": "0.0.1",
+  "description": "This is a product development bot used for creating feature requests in Confluence",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZacharyScottRobertson/slack-product-dev-bot.git"
+  },
+  "keywords": [
+    "product",
+    "development"
+  ],
+  "author": "Zachary Robertson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZacharyScottRobertson/slack-product-dev-bot/issues"
+  },
+  "homepage": "https://github.com/ZacharyScottRobertson/slack-product-dev-bot#readme"
+}
